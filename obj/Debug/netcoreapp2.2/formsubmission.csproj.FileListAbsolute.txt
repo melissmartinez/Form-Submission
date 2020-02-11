@@ -1,0 +1,6 @@
+/Users/melissaa.martinez/Desktop/Csharp_Stack/formsubmission/obj/Debug/netcoreapp2.2/formsubmission.csprojAssemblyReference.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/formsubmission/obj/Debug/netcoreapp2.2/formsubmission.csproj.CoreCompileInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/formsubmission/obj/Debug/netcoreapp2.2/formsubmission.RazorAssemblyInfo.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/formsubmission/obj/Debug/netcoreapp2.2/formsubmission.RazorAssemblyInfo.cs
+/Users/melissaa.martinez/Desktop/Csharp_Stack/formsubmission/obj/Debug/netcoreapp2.2/formsubmission.AssemblyInfoInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/formsubmission/obj/Debug/netcoreapp2.2/formsubmission.AssemblyInfo.cs
